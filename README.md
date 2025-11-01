@@ -1,1 +1,0 @@
-# 3D-orbital-mechanics-simulator
