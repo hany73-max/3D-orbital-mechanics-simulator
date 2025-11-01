@@ -29,7 +29,7 @@ The app provides real-time simulation of orbital motion, allowing users to modif
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/orbital-mechanics-simulator.git
-   cd orbital-mechanics-simulator
+   cd 3D-orbital-mechanics-simulator
    ```
 
 2. **Install dependencies**
